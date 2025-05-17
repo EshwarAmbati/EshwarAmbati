@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @EshwarAmbati
 - 👀 I’m interested in coding...
-- 💞️ Automation Testing Engineer
-I am a dedicated Automation Testing Engineer at Sidsfarm, specializing in Selenium-based test automation. My expertise lies in designing, developing, and maintaining robust test scripts to enhance software quality and reliability. With a strong focus on efficiency and accuracy, I continuously explore advancements in automation frameworks and testing methodologies.
+- 💞️ FrontEnd Software Developer
+👋 Hi, I’m a React developer who enjoys crafting intuitive, user-focused interfaces. My focus is on writing scalable, maintainable, and high-performance code using modern web technologies.
+I'm currently building applications with:
+⚛️ React & React Native
+💨 Tailwind CSS
+🌐 REST APIs
+🔄 Redux / Context API
+
+I'm also exploring areas like DevOps, backend integration, and full-stack architecture to broaden my skill set.
 - 📫 How to reach me https://www.linkedin.com/in/ambati-eshwar/..
 
 <!---
